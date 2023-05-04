@@ -1,6 +1,6 @@
-layout: page
-title: "My Favorate Books"
-permalink: https://github.com/wjouqd/anemone.github.io/"My Favorate Books"
+[//]: #layout: page
+[//]: #title: "My Favorate Books"
+[//]: #permalink: https://github.com/wjouqd/anemone.github.io/"My Favorate Books"
 
 1\. Civilization, by Kenneth Clark
 
